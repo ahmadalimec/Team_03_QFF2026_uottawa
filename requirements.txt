@@ -1,0 +1,8 @@
+qiskit
+qiskit-ibm-runtime==0.50.0
+qiskit-machine-learning
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter
