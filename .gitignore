@@ -11,4 +11,8 @@ data/private/
 
 *.log
 
-text.ipynb
+text.ipynbhttp.mat
+ibm_job_id.txt
+mrb_manifest.json
+qml_checkpoint.npz
+/http.mat
