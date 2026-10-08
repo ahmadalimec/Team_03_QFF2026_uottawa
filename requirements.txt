@@ -1,8 +1,12 @@
-qiskit
+qiskit==2.5.2
 qiskit-ibm-runtime==0.50.0
-qiskit-machine-learning
+qiskit-machine-learning==0.9.1
 numpy
 pandas
-scikit-learn
+scikit-learn==1.9.1
 matplotlib
 jupyter
+python-dotenv
+scipy
+h5py
+joblib==1.6.0

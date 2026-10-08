@@ -1,0 +1,27 @@
+{
+  "L": 2,
+  "selection": "highest_validation_auc_ties_shallow",
+  "threshold_rule": {
+    "rule": "normal_validation_quantile",
+    "target_false_alarm_rate": 0.05
+  },
+  "metrics": {
+    "n_samples": 64,
+    "n_anomalies": 32,
+    "prevalence": 0.5,
+    "normal_mean": 0.33859981710481396,
+    "anomaly_mean": 0.7624167429989122,
+    "separation": 0.4238169258940982,
+    "roc_auc": 0.9228515625,
+    "average_precision": 0.876154793252239,
+    "threshold": 0.8984416340766058,
+    "precision": 0.875,
+    "recall": 0.4375,
+    "f1": 0.5833333333333334,
+    "tn": 30,
+    "fp": 2,
+    "fn": 18,
+    "tp": 14,
+    "false_alarm_rate": 0.0625
+  }
+}

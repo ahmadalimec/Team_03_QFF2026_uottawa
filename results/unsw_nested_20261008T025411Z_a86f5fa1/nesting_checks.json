@@ -1,0 +1,18 @@
+[
+  {
+    "comparison": "L1 vs L2 with an identity new layer",
+    "largest_score_difference": 0.0
+  },
+  {
+    "comparison": "L2 vs L3 with an identity new layer",
+    "largest_score_difference": 0.0
+  },
+  {
+    "comparison": "L3 vs L4 with an identity new layer",
+    "largest_score_difference": 0.0
+  },
+  {
+    "comparison": "L4 vs L5 with an identity new layer",
+    "largest_score_difference": 0.0
+  }
+]

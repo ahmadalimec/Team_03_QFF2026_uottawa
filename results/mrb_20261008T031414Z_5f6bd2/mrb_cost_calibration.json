@@ -1,0 +1,72 @@
+{
+  "0123": {
+    "region": "0123",
+    "physical_qubits": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "cost_metric": "two_qubit_gates",
+    "two_qubit_gates_per_mrb_depth": 1.0312499999999996,
+    "intercept": 0.7500000000000001,
+    "r_squared": 0.9972527472527473,
+    "depths": [
+      0,
+      8,
+      32
+    ],
+    "observed_costs": [
+      {
+        "depth": 0,
+        "instances": 4,
+        "mean_two_qubit_gates": 0.0
+      },
+      {
+        "depth": 8,
+        "instances": 4,
+        "mean_two_qubit_gates": 10.0
+      },
+      {
+        "depth": 32,
+        "instances": 4,
+        "mean_two_qubit_gates": 33.5
+      }
+    ]
+  },
+  "6789": {
+    "region": "6789",
+    "physical_qubits": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "cost_metric": "two_qubit_gates",
+    "two_qubit_gates_per_mrb_depth": 1.0312499999999996,
+    "intercept": 0.7500000000000001,
+    "r_squared": 0.9972527472527473,
+    "depths": [
+      0,
+      8,
+      32
+    ],
+    "observed_costs": [
+      {
+        "depth": 0,
+        "instances": 4,
+        "mean_two_qubit_gates": 0.0
+      },
+      {
+        "depth": 8,
+        "instances": 4,
+        "mean_two_qubit_gates": 10.0
+      },
+      {
+        "depth": 32,
+        "instances": 4,
+        "mean_two_qubit_gates": 33.5
+      }
+    ]
+  }
+}

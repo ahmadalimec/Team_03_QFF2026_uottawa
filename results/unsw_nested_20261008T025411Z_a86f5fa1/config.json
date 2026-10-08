@@ -1,0 +1,150 @@
+{
+  "run_name": "unsw_nested_20261008T025411Z_a86f5fa1",
+  "created_at_utc": "2026-10-08T02:54:13.491945+00:00",
+  "python": "3.13.13",
+  "software_versions": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1",
+    "qiskit": "2.5.2",
+    "qiskit-ibm-runtime": "0.50.0",
+    "matplotlib": "3.11.2",
+    "joblib": "1.6.0"
+  },
+  "dataset": {
+    "path": "c:\\Users\\badir\\OneDrive\\Documents\\QML\\Team_03_QFF2026_uottawa\\data\\raw\\UNSW_NB15_training-set.csv",
+    "sha256": "3082da930db78612e1a6c15cdf2ee5d8012913487018e97d684168a4d6f77364",
+    "rows": 175341,
+    "features": 42
+  },
+  "preprocessing": {
+    "dataset": "unsw_nb15",
+    "seed": 42,
+    "split": "stratified_70_15_15",
+    "preprocessing_fit": "all_normal_training_only",
+    "normal_training_rows": 2000,
+    "quantum_features": 4,
+    "angle_clip_z": 3.0,
+    "sample_id_convention": "zero_based_row_position_in_loaded_file",
+    "preprocessing_fit_rows": 39200,
+    "compression": "truncated_svd_4",
+    "categorical_columns": [
+      "proto",
+      "service",
+      "state"
+    ],
+    "numeric_columns": [
+      "dur",
+      "spkts",
+      "dpkts",
+      "sbytes",
+      "dbytes",
+      "rate",
+      "sttl",
+      "dttl",
+      "sload",
+      "dload",
+      "sloss",
+      "dloss",
+      "sinpkt",
+      "dinpkt",
+      "sjit",
+      "djit",
+      "swin",
+      "stcpb",
+      "dtcpb",
+      "dwin",
+      "tcprtt",
+      "synack",
+      "ackdat",
+      "smean",
+      "dmean",
+      "trans_depth",
+      "response_body_len",
+      "ct_srv_src",
+      "ct_state_ttl",
+      "ct_dst_ltm",
+      "ct_src_dport_ltm",
+      "ct_dst_sport_ltm",
+      "ct_dst_src_ltm",
+      "is_ftp_login",
+      "ct_ftp_cmd",
+      "ct_flw_http_mthd",
+      "ct_src_ltm",
+      "ct_srv_dst",
+      "is_sm_ips_ports"
+    ],
+    "explained_variance_ratio": [
+      0.1647693099897003,
+      0.12435766950520637,
+      0.11330791673374983,
+      0.0764337063513971
+    ],
+    "variance_captured": 0.4788686025800536
+  },
+  "architecture": {
+    "name": "unsw_nested_ry_rz_crx",
+    "qubits": 4,
+    "encoding": "four_Ry_once",
+    "parameters_per_layer": 11,
+    "depths": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "anomaly_score": "1-P(0000)"
+  },
+  "training": {
+    "performed_here": true,
+    "checkpoint": null,
+    "normal_pool_size": 2000,
+    "local_size": 128,
+    "local_seed": 2026,
+    "seed": 42,
+    "iterations": 100,
+    "a": 0.1,
+    "c": 0.08,
+    "check_every": 5
+  },
+  "validation": {
+    "per_class": 32,
+    "seed": 123,
+    "bootstrap_repeats": 5000,
+    "confidence": 0.95,
+    "bootstrap_seed": 42
+  },
+  "hardware": {
+    "backend": "ibm_quebec",
+    "regions": {
+      "0123": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "6789": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "shots": 256,
+    "per_class": 16,
+    "sample_seed": 777,
+    "connect_enabled": false,
+    "submit_enabled": false
+  },
+  "threshold": {
+    "rule": "normal_validation_quantile",
+    "target_false_alarm_rate": 0.05
+  },
+  "held_out_test": {
+    "enabled": false,
+    "sample_size": 1024,
+    "seed": 2027
+  }
+}
