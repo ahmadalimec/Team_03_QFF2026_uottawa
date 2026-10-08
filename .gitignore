@@ -2,6 +2,8 @@
 __pycache__/
 *.pyc
 .env
+.env.*
+!.env.example
 .vscode/
 .ipynb_checkpoints/
 
@@ -10,8 +12,11 @@ data/private/
 
 *.log
 
-text.ipynbhttp.mat
+*.mat
 ibm_job_id.txt
 mrb_manifest.json
 qml_checkpoint.npz
 /http.mat
+
+# Local copies of dataset-derived arrays; keep models and summary results.
+results/**/prepared_samples.npz

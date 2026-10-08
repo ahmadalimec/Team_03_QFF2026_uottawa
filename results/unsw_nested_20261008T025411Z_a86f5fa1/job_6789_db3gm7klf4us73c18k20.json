@@ -1,0 +1,2306 @@
+{
+  "job_id": "db3gm7klf4us73c18k20",
+  "recorded_at_utc": "2026-10-08T03:16:46.483784+00:00",
+  "shots": 256,
+  "circuit_metadata": [
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 0,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 20534
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 1,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 38547
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 2,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 20514
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 3,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 15233
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 4,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 104552
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 5,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 28902
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 6,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 102291
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 7,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 112713
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 8,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 46048
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 9,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 111062
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 10,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 21253
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 11,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 26898
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 12,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 16575
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 13,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 6226
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 14,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 14497
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 15,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 93111
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 16,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 91307
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 17,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 76234
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 18,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 83746
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 19,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 161320
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 20,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 125891
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 21,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 174564
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 22,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 83516
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 23,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 63204
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 24,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 85579
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 25,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 121170
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 26,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 126248
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 27,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 101220
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 28,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 170027
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 29,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 155945
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 30,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 78504
+    },
+    {
+      "region": "6789",
+      "L": 1,
+      "sample_index": 31,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 102721
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 0,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 20534
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 1,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 38547
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 2,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 20514
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 3,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 15233
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 4,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 104552
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 5,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 28902
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 6,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 102291
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 7,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 112713
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 8,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 46048
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 9,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 111062
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 10,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 21253
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 11,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 26898
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 12,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 16575
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 13,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 6226
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 14,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 14497
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 15,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 93111
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 16,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 91307
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 17,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 76234
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 18,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 83746
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 19,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 161320
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 20,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 125891
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 21,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 174564
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 22,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 83516
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 23,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 63204
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 24,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 85579
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 25,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 121170
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 26,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 126248
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 27,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 101220
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 28,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 170027
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 29,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 155945
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 30,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 78504
+    },
+    {
+      "region": "6789",
+      "L": 2,
+      "sample_index": 31,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 102721
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 0,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 20534
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 1,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 38547
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 2,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 20514
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 3,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 15233
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 4,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 104552
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 5,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 28902
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 6,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 102291
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 7,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 112713
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 8,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 46048
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 9,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 111062
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 10,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 21253
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 11,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 26898
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 12,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 16575
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 13,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 6226
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 14,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 14497
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 15,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 93111
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 16,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 91307
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 17,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 76234
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 18,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 83746
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 19,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 161320
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 20,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 125891
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 21,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 174564
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 22,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 83516
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 23,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 63204
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 24,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 85579
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 25,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 121170
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 26,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 126248
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 27,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 101220
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 28,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 170027
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 29,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 155945
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 30,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 78504
+    },
+    {
+      "region": "6789",
+      "L": 3,
+      "sample_index": 31,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 102721
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 0,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 20534
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 1,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 38547
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 2,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 20514
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 3,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 15233
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 4,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 104552
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 5,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 28902
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 6,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 102291
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 7,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 112713
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 8,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 46048
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 9,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 111062
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 10,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 21253
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 11,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 26898
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 12,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 16575
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 13,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 6226
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 14,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 14497
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 15,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 93111
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 16,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 91307
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 17,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 76234
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 18,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 83746
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 19,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 161320
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 20,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 125891
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 21,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 174564
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 22,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 83516
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 23,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 63204
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 24,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 85579
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 25,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 121170
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 26,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 126248
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 27,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 101220
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 28,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 170027
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 29,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 155945
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 30,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 78504
+    },
+    {
+      "region": "6789",
+      "L": 4,
+      "sample_index": 31,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 102721
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 0,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 20534
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 1,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 38547
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 2,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 20514
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 3,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 15233
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 4,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 104552
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 5,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 28902
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 6,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 102291
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 7,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 112713
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 8,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 46048
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 9,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 111062
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 10,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 21253
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 11,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 26898
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 12,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 16575
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 13,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 6226
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 14,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 14497
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 15,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 93111
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 16,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 91307
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 17,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 76234
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 18,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 83746
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 19,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 161320
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 20,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 125891
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 21,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 174564
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 22,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 83516
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 23,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 63204
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 24,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 85579
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 25,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 121170
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 26,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 126248
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 27,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 101220
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 28,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 170027
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 29,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 155945
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 30,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 78504
+    },
+    {
+      "region": "6789",
+      "L": 5,
+      "sample_index": 31,
+      "encoding": "unsw_nested",
+      "score": "global",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "sample_id": 102721
+    }
+  ],
+  "config": {
+    "backend": "ibm_quebec",
+    "region": "6789",
+    "physical_qubits": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "dataset_sha256": "3082da930db78612e1a6c15cdf2ee5d8012913487018e97d684168a4d6f77364",
+    "architecture": {
+      "name": "unsw_nested_ry_rz_crx",
+      "qubits": 4,
+      "encoding": "four_Ry_once",
+      "parameters_per_layer": 11,
+      "depths": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "anomaly_score": "1-P(0000)"
+    },
+    "sample_ids": [
+      20534,
+      38547,
+      20514,
+      15233,
+      104552,
+      28902,
+      102291,
+      112713,
+      46048,
+      111062,
+      21253,
+      26898,
+      16575,
+      6226,
+      14497,
+      93111,
+      91307,
+      76234,
+      83746,
+      161320,
+      125891,
+      174564,
+      83516,
+      63204,
+      85579,
+      121170,
+      126248,
+      101220,
+      170027,
+      155945,
+      78504,
+      102721
+    ]
+  }
+}

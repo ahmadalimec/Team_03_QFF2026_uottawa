@@ -1,0 +1,12 @@
+{
+  "mode": "new",
+  "source": "None",
+  "analyzed_at_utc": "2026-10-08T03:14:26.546626+00:00",
+  "run_bootstrap": true,
+  "bootstrap_repeats": 500,
+  "bootstrap_seed": 42,
+  "confidence": 0.95,
+  "max_polarization_loss": null,
+  "use_bootstrap_lower_bound": true,
+  "qml_run_dir": null
+}

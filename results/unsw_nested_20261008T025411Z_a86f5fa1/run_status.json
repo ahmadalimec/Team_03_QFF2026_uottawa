@@ -1,0 +1,27 @@
+{
+  "run_name": "unsw_nested_20261008T025411Z_a86f5fa1",
+  "analysis_completed_at_utc": "2026-10-08T03:18:20.429905+00:00",
+  "execution_mode": "ideal_local_plus_explicit_optional_hardware",
+  "model_depths_available": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "local_validation_samples": 64,
+  "ideal_selected_depth": 2,
+  "held_out_test_scored": false,
+  "hardware_jobs_submitted": {
+    "0123": "db3gm1svf2bc73ct47o0",
+    "6789": "db3gm7klf4us73c18k20"
+  },
+  "hardware_regions_completed": [
+    "0123",
+    "6789"
+  ],
+  "controller_regions_evaluated": [
+    "0123",
+    "6789"
+  ]
+}

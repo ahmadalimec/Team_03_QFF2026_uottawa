@@ -1,0 +1,230 @@
+{
+  "0123": {
+    "mrb_source": "c:\\Users\\badir\\OneDrive\\Documents\\QML\\Team_03_QFF2026_uottawa\\results\\mrb_20261008T031414Z_5f6bd2\\mrb_results.json",
+    "mrb_timestamp": "2026-10-08T03:14:16.058170+00:00",
+    "constraints": {
+      "region": "0123",
+      "physical_qubits": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "policy": "two_qubit_cost_relative_polarization_proxy",
+      "max_polarization_loss": 0.1,
+      "p_point_estimate": 0.9906047282276134,
+      "p_used": 0.9906047282276134,
+      "p_source": "point_estimate",
+      "equivalent_depth_limit": 11.161443135659825,
+      "max_measured_mrb_depth": 32.0,
+      "allow_extrapolation": false,
+      "calibration": {
+        "region": "0123",
+        "physical_qubits": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "cost_metric": "two_qubit_gates",
+        "two_qubit_gates_per_mrb_depth": 1.0312499999999996,
+        "intercept": 0.7500000000000001,
+        "r_squared": 0.9972527472527473,
+        "depths": [
+          0,
+          8,
+          32
+        ],
+        "observed_costs": [
+          {
+            "depth": 0,
+            "instances": 4,
+            "mean_two_qubit_gates": 0.0
+          },
+          {
+            "depth": 8,
+            "instances": 4,
+            "mean_two_qubit_gates": 10.0
+          },
+          {
+            "depth": 32,
+            "instances": 4,
+            "mean_two_qubit_gates": 33.5
+          }
+        ]
+      },
+      "allowed_depths": [
+        1
+      ],
+      "depth_decisions": [
+        {
+          "L": 1,
+          "two_qubit_gates": 6,
+          "equivalent_mrb_depth": 5.818181818181821,
+          "predicted_polarization_loss": 0.05344084155709392,
+          "extrapolated": false,
+          "allowed": true,
+          "reason": "within_budget"
+        },
+        {
+          "L": 2,
+          "two_qubit_gates": 12,
+          "equivalent_mrb_depth": 11.636363636363642,
+          "predicted_polarization_loss": 0.10402575956785742,
+          "extrapolated": false,
+          "allowed": false,
+          "reason": "over_budget"
+        },
+        {
+          "L": 3,
+          "two_qubit_gates": 18,
+          "equivalent_mrb_depth": 17.45454545454546,
+          "predicted_polarization_loss": 0.15190737699002912,
+          "extrapolated": false,
+          "allowed": false,
+          "reason": "over_budget"
+        },
+        {
+          "L": 4,
+          "two_qubit_gates": 24,
+          "equivalent_mrb_depth": 23.272727272727284,
+          "predicted_polarization_loss": 0.19723016048204517,
+          "extrapolated": false,
+          "allowed": false,
+          "reason": "over_budget"
+        },
+        {
+          "L": 5,
+          "two_qubit_gates": 30,
+          "equivalent_mrb_depth": 29.090909090909104,
+          "predicted_polarization_loss": 0.2401308562825379,
+          "extrapolated": false,
+          "allowed": false,
+          "reason": "over_budget"
+        }
+      ]
+    },
+    "decision": {
+      "region": "0123",
+      "allowed_depths": [
+        1
+      ],
+      "metric": "roc_auc",
+      "selected_depth": 1,
+      "validation_value": 0.62890625,
+      "reason": "best_validation_among_allowed"
+    }
+  },
+  "6789": {
+    "mrb_source": "c:\\Users\\badir\\OneDrive\\Documents\\QML\\Team_03_QFF2026_uottawa\\results\\mrb_20261008T031414Z_5f6bd2\\mrb_results.json",
+    "mrb_timestamp": "2026-10-08T03:14:16.058170+00:00",
+    "constraints": {
+      "region": "6789",
+      "physical_qubits": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "policy": "two_qubit_cost_relative_polarization_proxy",
+      "max_polarization_loss": 0.1,
+      "p_point_estimate": 0.9213413470474646,
+      "p_used": 0.9213413470474646,
+      "p_source": "point_estimate",
+      "equivalent_depth_limit": 1.286065559532817,
+      "max_measured_mrb_depth": 32.0,
+      "allow_extrapolation": false,
+      "calibration": {
+        "region": "6789",
+        "physical_qubits": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "cost_metric": "two_qubit_gates",
+        "two_qubit_gates_per_mrb_depth": 1.0312499999999996,
+        "intercept": 0.7500000000000001,
+        "r_squared": 0.9972527472527473,
+        "depths": [
+          0,
+          8,
+          32
+        ],
+        "observed_costs": [
+          {
+            "depth": 0,
+            "instances": 4,
+            "mean_two_qubit_gates": 0.0
+          },
+          {
+            "depth": 8,
+            "instances": 4,
+            "mean_two_qubit_gates": 10.0
+          },
+          {
+            "depth": 32,
+            "instances": 4,
+            "mean_two_qubit_gates": 33.5
+          }
+        ]
+      },
+      "allowed_depths": [],
+      "depth_decisions": [
+        {
+          "L": 1,
+          "two_qubit_gates": 6,
+          "equivalent_mrb_depth": 5.818181818181821,
+          "predicted_polarization_loss": 0.379141891472309,
+          "extrapolated": false,
+          "allowed": false,
+          "reason": "over_budget"
+        },
+        {
+          "L": 2,
+          "two_qubit_gates": 12,
+          "equivalent_mrb_depth": 11.636363636363642,
+          "predicted_polarization_loss": 0.6145352090754178,
+          "extrapolated": false,
+          "allowed": false,
+          "reason": "over_budget"
+        },
+        {
+          "L": 3,
+          "two_qubit_gates": 18,
+          "equivalent_mrb_depth": 17.45454545454546,
+          "predicted_polarization_loss": 0.7606810590025419,
+          "extrapolated": false,
+          "allowed": false,
+          "reason": "over_budget"
+        },
+        {
+          "L": 4,
+          "two_qubit_gates": 24,
+          "equivalent_mrb_depth": 23.272727272727284,
+          "predicted_polarization_loss": 0.8514168949574681,
+          "extrapolated": false,
+          "allowed": false,
+          "reason": "over_budget"
+        },
+        {
+          "L": 5,
+          "two_qubit_gates": 30,
+          "equivalent_mrb_depth": 29.090909090909104,
+          "predicted_polarization_loss": 0.9077509744441224,
+          "extrapolated": false,
+          "allowed": false,
+          "reason": "over_budget"
+        }
+      ]
+    },
+    "decision": {
+      "region": "6789",
+      "allowed_depths": [],
+      "metric": "roc_auc",
+      "selected_depth": null,
+      "validation_value": null,
+      "reason": "no_allowed_depth"
+    }
+  }
+}

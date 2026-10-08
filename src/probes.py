@@ -277,7 +277,7 @@ def bootstrap_mrb_region(experiment_results, region, depths, n_bootstrap=5000, s
                 decay_model, np.array(list(data), dtype=float), means,
                 p0=[means[0], 0.99], bounds=([0, 0], [1.5, 1]), maxfev=10000,
             )
-        except RuntimeError:
+        except (RuntimeError, ValueError):
             continue
         samples["A"].append(A)
         samples["p"].append(p)
