@@ -6,3 +6,6 @@ pandas
 scikit-learn
 matplotlib
 jupyter
+python-dotenv
+scipy
+h5py
